@@ -1,0 +1,1 @@
+g++ -g -o main main.cpp Restaurant.cpp main.h -I . -std=c++11
